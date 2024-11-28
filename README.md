@@ -1,4 +1,4 @@
-# GameCoSalesAnalysis
+# GameCo Sales Analysis
 
 ## Objective
 GameCo is an online video game company that wants to use data to inform the development of new games. As such, performed a descriptive analysis of a video game data set to foster a
