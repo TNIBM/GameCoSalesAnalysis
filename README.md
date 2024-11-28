@@ -28,6 +28,6 @@ Following important points regarding the data set:
 
 ● The numbers represent units sold in millions. When you see the number “1.2,”
 for instance, this represents a total of 1.2 million units sold.
-[Download](https://images.careerfoundry.com/public/courses/intro-to-data/E1/vgsales.xlsx) the video game sales data set.
+[Download](https://github.com/TNIBM/GameCoSalesAnalysis/blob/main/vgsales.xlsx) the video game sales data set.
 
 
