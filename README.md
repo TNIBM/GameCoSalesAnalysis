@@ -5,8 +5,7 @@ GameCo is an online video game company that wants to use data to inform the deve
 better understanding of how GameCo’s new games might fare in the market.
 
 ## Key Questions
-GameCo executives are open to hearing any insights you can pull from the data but
-are specically interested in these questions:
+GameCo executives are particularly interested in gaining insights from the data, with a specific focus on addressing the following questions:
 
 ● Are certain types of games more popular than others?
 
