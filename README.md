@@ -33,4 +33,8 @@ for instance, this represents a total of 1.2 million units sold.
 ## Sales Analysis Presentation
 [Click here](https://github.com/TNIBM/GameCoSalesAnalysis/blob/main/Stakeholder%20Presentation.pdf) for the Stakeholder Sales Analysis Presentation.
 
+## Portfolio Presentation
+Click [here](https://drive.google.com/file/d/1fDsEiAiiqeFrXyQWQNRri8zgKPWPs-SE/view?usp=drive_link)
+
+
 
